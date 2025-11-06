@@ -1,0 +1,28 @@
+/Users/svyat/Desktop/c#/app/bin/Debug/net9.0/app
+/Users/svyat/Desktop/c#/app/bin/Debug/net9.0/app.deps.json
+/Users/svyat/Desktop/c#/app/bin/Debug/net9.0/app.runtimeconfig.json
+/Users/svyat/Desktop/c#/app/bin/Debug/net9.0/app.dll
+/Users/svyat/Desktop/c#/app/bin/Debug/net9.0/app.pdb
+/Users/svyat/Desktop/c#/app/obj/Debug/net9.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svyat/Desktop/c#/app/obj/Debug/net9.0/app.AssemblyInfoInputs.cache
+/Users/svyat/Desktop/c#/app/obj/Debug/net9.0/app.AssemblyInfo.cs
+/Users/svyat/Desktop/c#/app/obj/Debug/net9.0/app.csproj.CoreCompileInputs.cache
+/Users/svyat/Desktop/c#/app/obj/Debug/net9.0/app.dll
+/Users/svyat/Desktop/c#/app/obj/Debug/net9.0/refint/app.dll
+/Users/svyat/Desktop/c#/app/obj/Debug/net9.0/app.pdb
+/Users/svyat/Desktop/c#/app/obj/Debug/net9.0/app.genruntimeconfig.cache
+/Users/svyat/Desktop/c#/app/obj/Debug/net9.0/ref/app.dll
+/Users/svyat/Desktop/c#/Labo classesss/bin/Debug/net9.0/app
+/Users/svyat/Desktop/c#/Labo classesss/bin/Debug/net9.0/app.deps.json
+/Users/svyat/Desktop/c#/Labo classesss/bin/Debug/net9.0/app.runtimeconfig.json
+/Users/svyat/Desktop/c#/Labo classesss/bin/Debug/net9.0/app.dll
+/Users/svyat/Desktop/c#/Labo classesss/bin/Debug/net9.0/app.pdb
+/Users/svyat/Desktop/c#/Labo classesss/obj/Debug/net9.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/svyat/Desktop/c#/Labo classesss/obj/Debug/net9.0/app.AssemblyInfoInputs.cache
+/Users/svyat/Desktop/c#/Labo classesss/obj/Debug/net9.0/app.AssemblyInfo.cs
+/Users/svyat/Desktop/c#/Labo classesss/obj/Debug/net9.0/app.csproj.CoreCompileInputs.cache
+/Users/svyat/Desktop/c#/Labo classesss/obj/Debug/net9.0/app.dll
+/Users/svyat/Desktop/c#/Labo classesss/obj/Debug/net9.0/refint/app.dll
+/Users/svyat/Desktop/c#/Labo classesss/obj/Debug/net9.0/app.pdb
+/Users/svyat/Desktop/c#/Labo classesss/obj/Debug/net9.0/app.genruntimeconfig.cache
+/Users/svyat/Desktop/c#/Labo classesss/obj/Debug/net9.0/ref/app.dll
