@@ -13,16 +13,17 @@ namespace App
         static void Main()
         {
             const string user = "Admin", password = "P@sswoord123";
-           
-        Console.Write("Gebruikersnaam: ");
-        string inputUser = Console.ReadLine();
-        Console.Write("Wachtwoord: ");
-        string inputPassword = Console.ReadLine();
-        if (inputUser == user && inputPassword == password)
-        {
-        Console.WriteLine($"Welkom, {inputUser}!");
-        return;
-        
+
+            Console.Write("Gebruikersnaam: ");
+            string inputUser = Console.ReadLine();
+            Console.Write("Wachtwoord: ");
+            string inputPassword = Console.ReadLine();
+            if (inputUser == user && inputPassword == password)
+            {
+                Console.WriteLine($"Welkom, {inputUser}!");
+                return;
+
+            }
         }
     }
 }
